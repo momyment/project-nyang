@@ -2,6 +2,12 @@
 
 냥이의 대모험 웹게임 프로토타입입니다. Phaser.js와 Vite로 실행하며, 현재 구현 범위는 Sprint 01~06입니다.
 
+## 웹에서 바로 플레이
+
+[냥이의 대모험 시작하기](https://momyment.github.io/project-nyang/)
+
+GitHub 저장소: https://github.com/momyment/project-nyang
+
 ## 실행 방법
 
 Node.js가 설치되어 있고 인터넷 연결이 가능한 환경에서 프로젝트 폴더를 연 뒤 실행합니다.
